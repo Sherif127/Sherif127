@@ -72,7 +72,6 @@
 - ✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
 - ✅ Microsoft 365 Certified: Fundamentals (MS-900)  
 - ✅ Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)  
-- ✅ AWS Certified Cloud Practitioner 
 
 ---
 
