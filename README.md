@@ -2,17 +2,18 @@
 <h3 align="center">Cloud DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cloud+DevOps+Engineer;Terraform+%7C+AWS+%7C+Jenkins+%7C+Kubernetes;Linux+Automation+Fan+%7C+Ansible+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cloud+DevOps+Engineer;Terraform+%7C+AWS+%7C+Jenkins+%7C+Kubernetes+%7C+ArgoCD;Linux+Automation+Fan+%7C+Ansible+Lover" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Fresh graduate with a strong foundation in cloud computing, DevOps, and infrastructure as code.
-- 🚀 Hands-on experience through internships and labs using **AWS**, **Terraform**, **Jenkins**, **Ansible**, and **Kubernetes**.
-- 🌱 Continuously learning and building in the world of **cloud infrastructure**, **CI/CD pipelines**, and **Linux systems**.
-- 🤝 Open to opportunities in DevOps and Cloud Engineering roles.
+- 🎓 Fresh graduate with a strong foundation in Cloud Computing and DevOps practices.
+- 🚀 Hands-on experience using **AWS**, **Terraform**, **Jenkins**, **Ansible**, **Docker**, **Kubernetes**, and **ArgoCD**.
+- ⚙️ Proficient in building scalable infrastructure and automated CI/CD pipelines.
+- 🌱 Always learning and exploring the latest in cloud-native technologies and infrastructure as code.
+- 🤝 Actively seeking Cloud & DevOps engineering opportunities.
 
 ---
 
@@ -40,7 +41,7 @@
 <td valign="top" width="20%">
 <div align="center">  
 
-#### CI/CD & Automation  
+#### CI/CD & GitOps  
 <img src="https://skillicons.dev/icons?i=jenkins" />
 <img src="https://img.shields.io/badge/ArgoCD-FF4F8B.svg?logo=argo&logoColor=white" />
 </div>
@@ -67,11 +68,13 @@
 
 ---
 
-## 📜 Certifications
+## 📄 My Resume
 
-- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
-- ✅ Microsoft 365 Certified: Fundamentals (MS-900)  
-- ✅ Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)  
+<p align="center">
+  <a href="https://drive.google.com/uc?export=download&id=1K-bXgzJvWsVrCvoIiwvimDp8HPc0bOiv" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV_PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
+</p>
 
 ---
 
@@ -84,7 +87,6 @@
 
 ---
 
-
 ## 📬 Connect with Me
 
 <p align="center">
@@ -92,5 +94,3 @@
   <a href="https://www.linkedin.com/in/sherif127"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Sherif127"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
